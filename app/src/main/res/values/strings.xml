@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">House pets</string>
+    <string name="gender_unknown">Not specified</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_notDef">Not Defined</string>
+    
+</resources>
